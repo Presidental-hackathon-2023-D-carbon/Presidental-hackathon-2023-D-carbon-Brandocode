@@ -1,0 +1,36 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "password": "admin",
+      "token": "admin"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "password": "user",
+      "token": "user"
+    }
+  ],
+  "posts": [
+    {
+      "title": "123",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "json-serverrrrrrrrrrrrrr"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
