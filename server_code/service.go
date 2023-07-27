@@ -1402,7 +1402,7 @@ func main() {
 	// dbServer.RunDBServer()
 	// fmt.Println("Service is running.")
 	a := NewService("localhost", "8000")
-	a.Start("localhost", "27017", "testing")
+	a.Start("localhost", "27018", "testing")
 
 }
 
